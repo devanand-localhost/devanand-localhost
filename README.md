@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 🔭 I’m currently working on MERN technologies.
+- 🔭 I’m currently working on Full Stack & DevOps technologies.
 - 🌱 I’m currently learning Docker, Kubernetes and Cloud.
 - 💬 Ask me about ...
 - 📫 How to reach me: devanand_sharma@outlook.com || sharmadevanand99@gmail.com
