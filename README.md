@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/devanand-sharma-143b4881/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-------------
+-------------
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanand-localhost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
