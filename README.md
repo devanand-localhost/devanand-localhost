@@ -11,7 +11,7 @@
 - 💬 &nbsp;Ask me about **Space, Sports, Gaming**
 - 📫 &nbsp;Mail **devanand_sharma@outlook.com**
 
-<br /><br /><br />
+<br /><br />
 
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
@@ -34,8 +34,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" />
 </p>
-
-<br /><br /><br />
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
