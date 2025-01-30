@@ -35,14 +35,13 @@
 </p>
 
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/devanand-localhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanand-localhost" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9879855/devanand-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devanand-sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devanandsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanandsharma" height="30" width="40" /></a>
-</p>
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
 </p>
