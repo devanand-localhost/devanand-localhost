@@ -5,9 +5,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 👨🏻‍💻 &nbsp;I’m currently working on **backend, cloud and devops technologies**.\
-- 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks.\
-- 💬 &nbsp;Ask me about **Space, Sports, Gaming**.\
+- 👨🏻‍💻 &nbsp;I’m currently working on **backend, cloud and devops technologies**.
+- 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks.
+- 💬 &nbsp;Ask me about **Space, Sports, Gaming**.
 - 📫 &nbsp;Feel free to shoot me an mail @ **devanand_sharma@outlook.com**
 
 
