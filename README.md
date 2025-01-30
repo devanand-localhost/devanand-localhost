@@ -19,8 +19,6 @@
 <a href="https://www.hackerrank.com/devanandsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanandsharma" height="30" width="40" /></a>
 </p>
 
-<br /><br />
-
 ### 🛠 &nbsp;Tech Stack
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55" />
