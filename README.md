@@ -1,4 +1,5 @@
-<h1>Hey 👋, I'm Devanand </h1>
+<h1 align="center">Hey 👋, I'm Devanand </h1>
+<h3 align="center">Experienced Software Engineer with expertise in backend development, cloud computing, and DevOps</h3>
 
 <p>I'm currently working as a <b>Software Engineer</b> at <strong><a href="https://www.63moons.com/">63 Moons</a></strong> </strong> based in 🌁 Mumbai.</p> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
@@ -8,7 +9,7 @@
 - 👨🏻‍💻 &nbsp;I’m currently working on **backend, cloud and devops technologies**.
 - 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks.
 - 💬 &nbsp;Ask me about **Space, Sports, Gaming**.
-- 📫 &nbsp;Feel free to shoot me an mail @ **devanand_sharma@outlook.com**
+- 📫 &nbsp;Mail **devanand_sharma@outlook.com**
 
 
 ### 🛠 &nbsp;Tech Stack
