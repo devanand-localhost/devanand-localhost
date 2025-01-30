@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Devanand </h1>
-<h3 align="left">Experienced Software Engineer with expertise in backend development, cloud computing, and DevOps</h3>
+<h3 align="left">Experienced Software Engineer with proficiency in backend development, cloud computing, and DevOps</h3>
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
