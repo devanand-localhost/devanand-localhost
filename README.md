@@ -7,7 +7,7 @@
 🔭 &nbsp;I’m currently working on **backend, cloud and devops technologies**.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💬 &nbsp;Ask me about **Space, Sports, Gaming**.\
-📫 &nbsp;Shoot Mail @ **devanand_sharma@outlook.com**.\
+📫 &nbsp;Feel free to shoot me an mail @ **devanand_sharma@outlook.com**
 
 
 ### 🛠 &nbsp;Tech Stack
