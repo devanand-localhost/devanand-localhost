@@ -1,11 +1,10 @@
-<h1 align="left">Hey 👋, I'm Devanand </h1>
-<h3 align="left">Experienced Software Engineer with proficiency in backend development, cloud computing, and CI/CD</h3>
+<h1>Hey 👋, I'm Devanand </h1>
+<h3>Experienced Software Engineer with proficiency in backend development, cloud computing, and CI/CD</h3>
 
 <!-- <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> -->
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">&nbsp; About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Programmation" width="250" />
-
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
 - 👨🏻‍💻 &nbsp;I'm currently working as a <b>Software Engineer</b> at <strong><a href="https://www.63moons.com/">63 Moons</a></strong> </strong> based in 🌁 Mumbai<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks
@@ -13,7 +12,7 @@
 - 📫 &nbsp;Shoot mail at **devanand_sharma@outlook.com**
 <br/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55" />
@@ -42,7 +41,8 @@
 </p>
 <br/>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
+
 <p align="left">
 <a href="https://linkedin.com/in/devanand-localhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanand-localhost" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9879855/devanand-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devanand-sharma" height="30" width="40" /></a>
