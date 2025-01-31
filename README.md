@@ -9,7 +9,7 @@
 - 👨🏻‍💻 &nbsp;I'm currently working as a <b>Software Engineer</b> at <strong><a href="https://www.63moons.com/">63 Moons</a></strong> </strong> based in 🌁 Mumbai<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks
 - 💬 &nbsp;Ask me about **Space, Sports, Gaming**
-- 📫 &nbsp;Shoot mail at **devanand_sharma@outlook.com**
+- 📫 &nbsp;Reach me at **devanand_sharma@outlook.com**
 - 🚀 **[Online Portfolio](https://devanand-localhost.github.io/)**
 <br/>
 
