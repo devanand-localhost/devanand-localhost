@@ -3,14 +3,15 @@
 
 <!-- <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> -->
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">&nbsp; About Me ( **[Online Portfolio](https://devanand-localhost.github.io/)** 🚀)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">&nbsp; About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Programmation" width="250" />
 
 - 👨🏻‍💻 &nbsp;I'm currently working as a <b>Software Engineer</b> at <strong><a href="https://www.63moons.com/">63 Moons</a></strong> </strong> based in 🌁 Mumbai<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks
 - 💬 &nbsp;Ask me about **Space, Sports, Gaming**
-- 📫 &nbsp;Reach me at **devanand_sharma@outlook.com** 
-<br/>
+- 📫 &nbsp;Reach me at **devanand_sharma@outlook.com**
+
+<h3 align="center"><a href="https://devanand-localhost.github.io/" target="blank">Online Portfolio</a> 🚀</h3>
 
 ## 🛠 &nbsp;Tech Stack
 <p align="left">
