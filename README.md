@@ -9,7 +9,7 @@
 - 👨🏻‍💻 &nbsp;I'm currently working as a <b>Software Engineer</b> at <strong><a href="https://www.63moons.com/">63 Moons</a></strong> </strong> based in 🌁 Mumbai<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💡 &nbsp;I love innovation, new technologies, and developing software solutions and quick hacks
 - 💬 &nbsp;Ask me about **Space, Sports, Gaming**
-- 📫 &nbsp;Reach me at **devanand_sharma@outlook.com** <img align="right" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="120">
+- 📫 &nbsp;Reach me at **devanand_sharma@outlook.com** 
 <br/>
 
 ## 🛠 &nbsp;Tech Stack
@@ -37,9 +37,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="55" height="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="bootstrap" width="50" height="50" />
+    <!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="bootstrap" width="50" height="50" /> -->
 </p>
 
+<p align="center">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
+</p>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -51,7 +55,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
+    
 </p>
 
 
