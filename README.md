@@ -42,7 +42,8 @@
 </p>
 
 <p align="center">
-    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="165">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="165" />
+    <img src="https://images.credly.com/size/680x680/images/0f5127c3-639b-47f2-abca-01107591c639/blob" alt="AWS" width="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
 </p>
 
