@@ -3,6 +3,12 @@
 
 <!-- <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> -->
 
+<p align="center">
+    <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python" width="150" />
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="150" />
+    <img src="https://images.credly.com/size/680x680/images/0f5127c3-639b-47f2-abca-01107591c639/blob" alt="AWS" width="150" />
+</p>
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">&nbsp; About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Programmation" width="250" />
 
@@ -42,9 +48,6 @@
 </p>
 
 <p align="center">
-    <img src="https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python" width="165" />
-    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" width="165" />
-    <img src="https://images.credly.com/size/680x680/images/0f5127c3-639b-47f2-abca-01107591c639/blob" alt="AWS" width="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand-localhost&show_icons=true&locale=en&layout=compact" alt="devanand-localhost" />
 </p>
 
