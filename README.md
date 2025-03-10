@@ -19,6 +19,8 @@
 - 📫 &nbsp;Reach me at **devanand_sharma@outlook.com**
 
 <!-- <h3 align="center"><a href="https://devanand-localhost.github.io/" target="blank">Online Portfolio</a> 🚀</h3> -->
+<br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 <p align="left">
